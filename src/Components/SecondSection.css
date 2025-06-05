@@ -1,0 +1,16 @@
+.second{
+    max-width: 100%;
+    margin: 100px;
+    height: 80vh;
+}
+
+.second h1{
+    font-size: 1.9rem;
+    text-align:start;
+}
+
+.second p{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 1.9rem;
+}
