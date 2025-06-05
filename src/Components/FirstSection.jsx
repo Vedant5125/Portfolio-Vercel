@@ -6,7 +6,7 @@ import "./FirstSection.css";
 const FirstSection = () => {
 
   const handleDownload = () => {
-    window.open('/PORTFOLIO/Vedant Resume.pdf', '_blank');
+    window.open('/PORTFOLIO/Vedant_Resume.pdf', '_blank');
   };
 
   return (
