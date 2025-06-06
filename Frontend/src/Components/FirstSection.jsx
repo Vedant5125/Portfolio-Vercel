@@ -5,9 +5,9 @@ import "./FirstSection.css";
 
 const FirstSection = () => {
 
-  const handleDownload = () =>{
-    window.open(process.env.PUBLIC_URL + '/Vedant Resume.pdf', '_blank');
-  }
+  const handleDownload = () => {
+    window.open('/PORTFOLIO/Vedant_Resume.pdf', '_blank');
+  };
 
   return (
     <div>
