@@ -5,9 +5,10 @@ import "./FirstSection.css";
 
 const FirstSection = () => {
 
-  const handleDownload = () => {
-    window.open('/PORTFOLIO/Vedant Resume.pdf', '_blank');
-  };
+const handleDownload = () => {
+  window.open('https://drive.google.com/file/d/1o4v4x49U6_aAY0ZnhgTXmagKbaKTtG21/view?usp=sharing', '_blank');
+};
+
 
   return (
     <div>
