@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import MyImage from "../assets/MyImage1.png";
 import TypedComponent from './TypedComponent';
 import "./FirstSection.css";
