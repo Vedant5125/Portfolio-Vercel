@@ -19,7 +19,7 @@ const Project = () => {
       title: 'Virtual Library',
       desc: 'An app that provides a centralized digital platform for seamless access to resources anytime, anywhere.',
       img: VLimg,
-      color: '#f0e9ff',
+      color: '#ffe3e3',
       link: 'https://github.com/Vedant5125/Virtual-Library',
     },
     {
@@ -33,7 +33,7 @@ const Project = () => {
       title: 'Virtual Banking System',
       desc: 'A java project to perform essential CRUD operations for managing customer banking data',
       img: VBSimg,
-      color: '#ffe3e3',
+      color: '#f0e9ff',
       link: 'https://github.com/Vedant5125/Virtual-Banking-System',
     },
     {
