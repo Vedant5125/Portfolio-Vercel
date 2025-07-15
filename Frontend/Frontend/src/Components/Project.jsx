@@ -1,24 +1,17 @@
-import '/components/project.css';
+import React from 'react';
+import './project.css';
 import VBSimg from "../assets/VBSimg.png"
 import VLimg from "../assets/VLimg.jpeg"
 import PLSimg from "../assets/PLSimg.png"
 import STimg from "../assets/STimg.png"
-import StayFinder from "../assets/SF1.png"
 
 const Project = () => {
   const projects = [
     {
-      title: 'StayFinder',
-      desc: 'StayFinder is a MERN-based Airbnb clone where users book stays and hosts list properties.',
-      img: StayFinder,
-      color: '#f0e9ff',
-      link: 'https://stay-finder-frontend-sage.vercel.app/',
-    },
-    {
       title: 'Virtual Library',
       desc: 'An app that provides a centralized digital platform for seamless access to resources anytime, anywhere.',
       img: VLimg,
-      color: '#ffe3e3',
+      color: '#f0e9ff',
       link: 'https://github.com/Vedant5125/Virtual-Library',
     },
     {
@@ -39,7 +32,7 @@ const Project = () => {
       title: 'SpeedTypo',
       desc: 'A website that can calculate your typing speed',
       img: STimg,
-      color: '#f0e9ff',
+      color: '#ffe3e3',
       link: 'https://github.com/Vedant5125/SpeedTypo',
     },
   ];
