@@ -5,9 +5,16 @@ import "./FirstSection.css";
 
 const FirstSection = () => {
 
+<<<<<<< HEAD
   const handleDownload = () => {
     window.open('/PORTFOLIO/Vedant_Resume.pdf', '_blank');
   };
+=======
+const handleDownload = () => {
+  window.open('https://drive.google.com/file/d/1o4v4x49U6_aAY0ZnhgTXmagKbaKTtG21/view?usp=sharing', '_blank');
+};
+
+>>>>>>> ef046fa9cd89ca10589653d1f39cb2b669c255e8
 
   return (
     <div>
