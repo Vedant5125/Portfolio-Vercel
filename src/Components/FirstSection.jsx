@@ -11,7 +11,7 @@ const FirstSection = () => {
   };
 =======
 const handleDownload = () => {
-  window.open('https://drive.google.com/file/d/1o4v4x49U6_aAY0ZnhgTXmagKbaKTtG21/view?usp=sharing', '_blank');
+  window.open('https://drive.google.com/file/d/1o4v4x49U6_aAY0ZnhgTXmagKbaKTtG21/view?usp=sharing');
 };
 
 >>>>>>> ef046fa9cd89ca10589653d1f39cb2b669c255e8
