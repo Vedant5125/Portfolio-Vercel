@@ -4,9 +4,17 @@ import VBSimg from "../assets/VBSimg.png"
 import VLimg from "../assets/VLimg.jpeg"
 import PLSimg from "../assets/PLSimg.png"
 import STimg from "../assets/STimg.png"
+import StayFinder from "../assets/SFimg.png"
 
 const Project = () => {
   const projects = [
+    {
+      title: 'StayFinder',
+      desc: 'StayFinder is a MERN-based Airbnb clone where users book stays and hosts list properties.',
+      img: StayFinder,
+      color: '#f0e9ff',
+      link: 'https://stay-finder-frontend-sage.vercel.app/',
+    },
     {
       title: 'Virtual Library',
       desc: 'An app that provides a centralized digital platform for seamless access to resources anytime, anywhere.',
