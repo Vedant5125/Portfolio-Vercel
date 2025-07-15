@@ -1,5 +1,5 @@
 import React from 'react';
-import './Project.css';
+import '/Components/Project.css';
 import VBSimg from "../assets/VBSimg.png"
 import VLimg from "../assets/VLimg.jpeg"
 import PLSimg from "../assets/PLSimg.png"
