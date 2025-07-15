@@ -7,8 +7,11 @@ import Project from "./Components/Project";
 import About from "./Components/About";          
 import Contact from "./Components/Contact";
 function App() {
+
+  const basename = import.meta.env.MODE === 'production' ? '/' : '/PORTFOLIO/';
+
   return (
-    <BrowserRouter basename="/PORTFOLIO">
+    <BrowserRouter basename={basename}>
       <header>
         <Navbar />
       </header>
