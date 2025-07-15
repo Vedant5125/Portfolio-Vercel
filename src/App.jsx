@@ -5,8 +5,7 @@ import FirstSection from "./Components/FirstSection";
 import SecondSection from "./Components/SecondSection";
 import Project from "./Components/Project";    
 import About from "./Components/About";          
-import Contact from "./Components/Contact";     
-import Footer from "./Components/Footer";
+import Contact from "./Components/Contact";
 function App() {
   return (
     <BrowserRouter basename="/PORTFOLIO">
