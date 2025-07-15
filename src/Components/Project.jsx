@@ -33,14 +33,14 @@ const Project = () => {
       title: 'Virtual Banking System',
       desc: 'A java project to perform essential CRUD operations for managing customer banking data',
       img: VBSimg,
-      color: '#f0e9ff',
+      color: '#ffe3e3',
       link: 'https://github.com/Vedant5125/Virtual-Banking-System',
     },
     {
       title: 'SpeedTypo',
       desc: 'A website that can calculate your typing speed',
       img: STimg,
-      color: '#ffe3e3',
+      color: '#f0e9ff',
       link: 'https://github.com/Vedant5125/SpeedTypo',
     },
   ];
